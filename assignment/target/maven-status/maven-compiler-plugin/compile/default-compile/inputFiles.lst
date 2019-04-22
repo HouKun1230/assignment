@@ -1,0 +1,14 @@
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/config/LoggingAspectConfiguration.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/repo/UserRepository.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/dao/User.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/exception/ResourcesNotFoundException.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/ApplicationStarter.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/config/SpringSecurityConfig.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/config/MvcConfig.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/service/UserService.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/config/WebMvcConfig.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/dao/Status.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/controller/UserController.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/exception/ErrorDTO.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/aop/LoggingAspect.java
+/Users/kunhou/Documents/assignment/Java Coding Exercise-v26-20190213_161525/assignment/src/main/java/com/uxpsystems/assignment/exception/ExceptionTranslator.java
